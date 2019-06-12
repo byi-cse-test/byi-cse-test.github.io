@@ -93,5 +93,6 @@ table.blueTable td {
 }
 
 .steps_image{
-	width: 50%;
+	width: 75%;
+	min-width:50em;
 }
